@@ -58,5 +58,3 @@ This repo was adapted from [Unihen](https://twitter.com/uninen)'s [vite-ts-tailw
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-Follow [@vincentdoerig](https://twitter.com/vincentdoerig) on Twitter.
